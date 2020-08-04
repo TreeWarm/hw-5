@@ -1,0 +1,11 @@
+body {
+	background-color: #cff;
+	font-size: 20px;
+}
+
+.product{
+            display: flex;
+            width: 400px;
+            justify-content: space-between;
+        }
+
